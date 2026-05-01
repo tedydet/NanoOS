@@ -1367,7 +1367,7 @@ The INT/SQW pin is open-drain. It needs a pull-up. Alarm output usually goes LOW
 
 # Planned Future Features
 
-Possible future versions:
+Possible future additions:
 
 ```text
 chiptemp              internal ATmega328P temperature sensor
